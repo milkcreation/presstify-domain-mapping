@@ -4,7 +4,6 @@
   "type": "presstify-plugins",
   "keywords": ["presstify", "plugins", "wordpress", "domain-mapping"],
   "homepage": "http://svn.milkcreation.fr/presstify-plugins/domain-mapping",
-  "license": "proprietary",
   "authors": [
     {
       "name": "Jordy Manner",
